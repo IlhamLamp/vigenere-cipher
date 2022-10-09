@@ -1,0 +1,11 @@
+div.col, .card{
+    position: relative;
+}
+
+@media only screen and (min-width: 540px) {
+    div.col, .card{
+        position: relative;
+        left: 23px;
+    }
+
+}
